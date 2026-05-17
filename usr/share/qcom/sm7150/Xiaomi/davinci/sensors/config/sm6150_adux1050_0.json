@@ -59,7 +59,7 @@
     ".placement":{
       "owner": "sns_adux1050",
       "0":{ "type": "flt", "ver": "0",
-        "data": "0.0"
+        "data": "-1.0"
       },
       "1":{ "type": "flt", "ver": "0",
         "data": "0.0"
@@ -71,7 +71,7 @@
         "data": "0.0"
       },
       "4":{ "type": "flt", "ver": "0",
-        "data": "0.0"
+        "data": "-1.0"
       },
       "5":{ "type": "flt", "ver": "0",
         "data": "0.0"
@@ -83,7 +83,7 @@
         "data": "0.0"
       },
       "8":{ "type": "flt", "ver": "0",
-        "data": "0.0"
+        "data": "-1.0"
       },
       "9":{ "type": "flt", "ver": "0",
         "data": "0.0"
